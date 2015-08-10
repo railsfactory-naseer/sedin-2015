@@ -1,0 +1,37 @@
+1) sudo apt-get install openssh-server
+    sudo apt-get install openssh-server:123
+
+2) dpkg -la | grep git-core
+
+3) dpkg -la(list all the files which is there)
+
+4) git config --global user.name "railsfactory-naseer"
+
+5) git config --global user.email naseerpasha@railsfactory.org
+
+6) ssh-keygen -t rsa
+
+enter 
+enter
+enter
+
+u ll get one box
+
++--[ RSA 2048]----+
+|                 |
+|           o     |
+|          o o    |
+|         . + .   |
+|      . S o +    |
+|     . * = o o   |
+|      . +.+ o E  |
+|       oo..+ .   |
+|      . .+o      |
++-----------------+like this
+
+7) ls -l
+
+ 
+
+
+
